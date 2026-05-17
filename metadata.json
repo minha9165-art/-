@@ -1,0 +1,8 @@
+{
+  "name": "AuraColor",
+  "description": "AI 기반 퍼스널 컬러 진단 및 스타일 컨설팅 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
